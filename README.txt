@@ -2,7 +2,6 @@ Hello, Git
 Updating README with new information
 Committing from an alternate location
 
-Fixing bug#1234
 Another fix to Bug#1234
 
 Feature1
